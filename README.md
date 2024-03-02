@@ -27,7 +27,6 @@
 
 <hr>
 
-
 - 🔭 I’m currently working on my UI design skills.
 - 🌱 I’m currently learning Flutter and MERN Stack.
 - 🙃 I'm interested in Full Stack development and UI designing.
@@ -39,7 +38,9 @@
 <!--  - 🤔 I’m looking for help with Flutter -->
 
 
- 
+<br>
+
+
 # My Skils
  
 ## Languages: 
