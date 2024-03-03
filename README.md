@@ -41,7 +41,7 @@
 <br>
 
 
-# My Skils
+# My Skills
  
 ## Languages: 
   
