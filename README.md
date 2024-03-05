@@ -47,24 +47,32 @@
   
 >[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart&theme=light)](https://skillicons.dev)
 
+## Frontend Development
 
-## Frameworks & Libraries:
+>[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind&theme=light)](https://skillicons.dev)
+
+## Mobile App Development
  
  
->[![My Skills](https://skillicons.dev/icons?i=flutter,react,firebase&theme=light)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
 
 
-## Technologies
+<!-- ## Technologies
 
->[![My Skills](https://skillicons.dev/icons?i=html,css,SQL&theme=light)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=html,css,SQL&theme=light)](https://skillicons.dev) -->
 
 
+
+## Software:
+ 
+ 
+>[![My Skills](https://skillicons.dev/icons?i=vscode,figma,ps,ai,androidstudio&theme=light)](https://skillicons.dev)
 
 
 ## Tools:
  
  
->[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,git,linux&theme=light)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=git,linux,windows&theme=light)](https://skillicons.dev)
 
 ---
 
