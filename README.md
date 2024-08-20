@@ -9,11 +9,13 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47izi94flm6qymikfe4lhqll00tggqg6boellb4qki&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="50%"/>
 </div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/badu01/badu01/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/badusha-pareed-a13227255/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
