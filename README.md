@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/badusha-pareed-a13227255/">
     <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   </a>
-  <a href="https://badu01.github.io/MyFolio/">
+  <a href="https://badushapareed.in">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=web&logoColor=white" alt="Youtube Badge"/>
   </a>
 <!--   <a href="http://twitter.com/AryaV140502">
