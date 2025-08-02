@@ -1,5 +1,6 @@
 
 <!-- ![linkedin](https://github.com/AryaV14/AryaV14/assets/99739280/22b0d006-7ca1-4b20-b7fc-864c4ac73337) -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/ >
